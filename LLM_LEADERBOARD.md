@@ -32,7 +32,7 @@
         <td>24.88%</td>
         <td>5.99%</td>
     </tr>
-    <tr> ,,,
+    <tr>
         <td class="model-name">Gemini 3 Flash</td>
         <td><strong>54.68%</strong></td>
         <td><strong>65.73%</strong></td>
@@ -103,6 +103,14 @@
         <td>39.76%</td>
         <td>25.73%</td>
         <td>7.82%</td>
+    </tr>
+    <tr>
+        <td class="model-name">GLM 4.7</td>
+        <td>43.83%</td>
+        <td>62.41%</td>
+        <td>45.79%</td>
+        <td>22.91%</td>
+        <td>5.2%</td>
     </tr>
     <tr>
         <td class="model-name">LIMI GLM 4.5</td>
